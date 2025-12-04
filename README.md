@@ -108,9 +108,3 @@ network_hardening/
 - **Unified Planning**: framework Python per automated planning
 - **Fast-Downward**: solver state-of-the-art per planning classico
 - **Python 3.8+**: linguaggio di sviluppo
-
----
-
-## Autore
-
-Progetto sviluppato a scopo didattico per dimostrare l'applicazione di tecniche di AI Planning a problemi reali di sicurezza informatica.
