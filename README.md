@@ -1,4 +1,4 @@
-# Network Hardening Planner
+# Network Hardening Planner 
 
 Sistema di pianificazione automatica per la messa in sicurezza di infrastrutture di rete.
 
